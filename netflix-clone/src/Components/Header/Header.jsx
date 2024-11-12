@@ -1,6 +1,6 @@
 import React from "react";
 import "./header.css";
-import Netflixlogo from "../assets/images/logo.png";
+import Netflixlogo from "../../assets/images/logo.png"
 import SearchIcon from "@mui/icons-material/Search";
 import NotificationsNoneIcon from "@mui/icons-material/NotificationsNone";
 import AccountBoxIcon from "@mui/icons-material/AccountBox";
